@@ -1,9 +1,11 @@
-# Kame Homebrew Tap
+# Kame Homebrew package index (archived)
 
-Install the Kame command line tool with:
+This package index is no longer maintained. Install a version-pinned formula
+from the corresponding Kame release instead:
 
 ```sh
-brew install sebastien/kame/kame
+brew install https://github.com/sebastien/kame/releases/download/vVERSION/kame.rb
 ```
 
-The version-pinned formula is published here by the Kame release workflow.
+Replace `VERSION` with the release version. See the [Kame distribution
+documentation](https://github.com/sebastien/kame/blob/main/docs/spec/015-distribution.md).
